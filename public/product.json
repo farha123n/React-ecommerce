@@ -1,0 +1,98 @@
+{
+    "products": [
+      {
+        "name": "Apple",
+        "category": "Fruits",
+        "price": 1.99,
+        "weight": "1 lb",
+        "origin": "USA",
+        "organic": true,
+        "available": true,
+        "expiry_date": "2024-05-15",
+        "sku": "APL123",
+        "image": "https://images.pexels.com/photos/575610/pexels-photo-575610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "name": "Milk",
+        "category": "Dairy",
+        "price": 2.49,
+        "volume": "1 gallon",
+        "brand": "Organic Farms",
+        "organic": true,
+        "available": true,
+        "expiry_date": "2024-05-20",
+        "sku": "MLK456",
+        "image": "https://www.heritagefoods.in/blog/wp-content/uploads/2020/12/shutterstock_539045662.jpg"
+      },
+      {
+        "name": "Bread",
+        "category": "Bakery",
+        "price": 2.99,
+        "weight": "24 oz",
+        "brand": "Whole Grain Bakery",
+        "available": true,
+        "expiry_date": "2024-05-10",
+        "sku": "BRD789",
+        "image": "https://media.gettyimages.com/id/182835505/photo/loaf-of-bread.jpg?s=612x612&w=0&k=20&c=XJ-61NytirLYlN9GwPQLq4c8nIfIo0NUbWqmkzE2KSU="
+      },
+      {
+        "name": "Eggs",
+        "category": "Dairy",
+        "price": 3.99,
+        "quantity": 12,
+        "brand": "Happy Hen Farms",
+        "organic": false,
+        "available": true,
+        "expiry_date": "2024-05-18",
+        "sku": "EGG012",
+        "image": "https://as2.ftcdn.net/v2/jpg/00/84/06/55/1000_F_84065569_LM2iMedj4XjnucwKSIBgRBSxbvQLWkxi.jpg"
+      },
+      {
+        "name": "Carrot",
+        "category": "Vegetables",
+        "price": 0.99,
+        "weight": "2 lbs",
+        "origin": "Mexico",
+        "organic": false,
+        "available": true,
+        "expiry_date": "2024-05-12",
+        "sku": "CRT345",
+        "image": "https://images.pexels.com/photos/143133/pexels-photo-143133.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "name": "Orange Juice",
+        "category": "Beverages",
+        "price": 3.49,
+        "volume": "64 oz",
+        "brand": "Fresh Squeeze",
+        "available": true,
+        "expiry_date": "2024-05-25",
+        "sku": "OJU678",
+        "image": "https://media.istockphoto.com/id/1400831765/photo/yellow-orange-fruits-and-fresh-orange-juice-squeezing-out-the-fresh-orange.jpg?s=1024x1024&w=is&k=20&c=fDTLso6tO05RqZ11cxdJ4cw8QSU5myuo14PKMs4-iGY="
+      },
+      {
+        "name": "Potato",
+        "category": "Vegetables",
+        "price": 1.49,
+        "weight": "5 lbs",
+        "origin": "USA",
+        "organic": true,
+        "available": true,
+        "expiry_date": "2024-05-14",
+        "sku": "POT901",
+        "image": "https://media.istockphoto.com/id/157430678/photo/three-potatoes.jpg?s=1024x1024&w=is&k=20&c=-0Kc9EyQqVx4Bi1uMLnnZVhL3fS08wTpkaBLH_0yrTU="
+      },
+      {
+        "name": "Chicken Breast",
+        "category": "Meat",
+        "price": 5.99,
+        "weight": "1 lb",
+        "brand": "Farm Fresh",
+        "available": true,
+        "expiry_date": "2024-05-22",
+        "sku": "CHB234",
+        "image": "https://www.shutterstock.com/image-photo/grilled-chicken-breast-spice-rub-260nw-2274353069.jpg"
+      }
+    ]
+  }
+  
